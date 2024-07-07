@@ -1,0 +1,3 @@
+first place =>  npm install  ,
+second place => cd backedn , npm install , npm start
+first place =>  npm run dev
