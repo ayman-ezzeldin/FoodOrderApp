@@ -75,7 +75,7 @@ const Checkout = () => {
         open={userProgressCtx.progress === "checkout"}
         onClose={handleFinish}
       >
-        <h2>Succes!</h2>
+        <h2>Success!</h2>
         <p>Yor order was submitted successfully.</p>
         <p>
           We will get back to you with more details via email within the next
