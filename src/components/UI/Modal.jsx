@@ -12,6 +12,7 @@ export default function Modal({ children, open, onClose , className = '' }) {
     }
 
     return () => modal.close();
+    
   }, [open]);
 
   return createPortal(
